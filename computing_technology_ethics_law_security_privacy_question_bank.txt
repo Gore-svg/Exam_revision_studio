@@ -1,0 +1,3002 @@
+{
+  "format": "CT9-PRACTICE-V1",
+  "title": "Computing Technology — Ethics, Law, Security & Privacy Long Responses",
+  "description": "Year 9 NSW Computing Technology extended-response practice. 40 scenario-based paragraph questions with model responses and criterion-based self-marking rubrics. Includes social networks, networks, cloud computing, AI, cybersecurity, programming, robotics, privacy, digital citizenship and intellectual property.",
+  "questions": [
+    {
+      "id": "ct-ethics-law-sec-priv-001",
+      "type": "short",
+      "unit": "Networks",
+      "module": "Social Networks",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Explain how a social networking platform can create privacy risks when it collects profile, location and relationship data. Discuss consent, data minimisation and possible consequences for users.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Identifies personal/profile, location or relationship data as sensitive or identifying information"
+          ],
+          "why": "Identifies personal/profile, location or relationship data as sensitive or identifying information"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Explains how collection, linking, sharing or retention creates exposure"
+          ],
+          "why": "Explains how collection, linking, sharing or retention creates exposure"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Discusses informed consent and meaningful user control"
+          ],
+          "why": "Discusses informed consent and meaningful user control"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Explains data minimisation and purpose limitation"
+          ],
+          "why": "Explains data minimisation and purpose limitation"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Analyses possible harms such as profiling, unwanted contact, identity misuse or discrimination"
+          ],
+          "why": "Analyses possible harms such as profiling, unwanted contact, identity misuse or discrimination"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Explains a realistic platform safeguard"
+          ],
+          "why": "Explains a realistic platform safeguard"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Considers responsibility of the platform and the user"
+          ],
+          "why": "Considers responsibility of the platform and the user"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Uses a relevant scenario and clear cause-and-effect reasoning"
+          ],
+          "why": "Uses a relevant scenario and clear cause-and-effect reasoning"
+        }
+      ],
+      "model": "Social platforms can collect more than the information a person deliberately posts. Profile details, location signals, contacts, likes and browsing behaviour can be combined to build a detailed picture of a user. This creates privacy risks if the information is shared beyond its original purpose, retained unnecessarily, accessed by unauthorised people or used for targeted profiling. Ethical collection requires informed consent: users should understand what is collected, why it is needed and who may receive it. A platform should minimise collection, limit access, provide clear privacy controls and securely delete information when it is no longer required. Users should also review audiences and avoid publishing unnecessary identifying details. Ultimately, the platform has a strong responsibility because it designs the collection system and controls much of the data.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-002",
+      "type": "short",
+      "unit": "Networks",
+      "module": "Social Networks",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Evaluate the ethical responsibilities of a social media company when its recommendation algorithm repeatedly promotes misleading or harmful content.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Explains how recommendation systems rank or amplify content"
+          ],
+          "why": "Explains how recommendation systems rank or amplify content"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Identifies misinformation or harmful-content risks"
+          ],
+          "why": "Identifies misinformation or harmful-content risks"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Discusses transparency about ranking and recommendation"
+          ],
+          "why": "Discusses transparency about ranking and recommendation"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Considers company accountability and user agency"
+          ],
+          "why": "Considers company accountability and user agency"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Explains practical safeguards such as reporting, moderation or friction"
+          ],
+          "why": "Explains practical safeguards such as reporting, moderation or friction"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Balances free expression with harm reduction"
+          ],
+          "why": "Balances free expression with harm reduction"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Considers impacts on different user groups"
+          ],
+          "why": "Considers impacts on different user groups"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Provides a reasoned judgement"
+          ],
+          "why": "Provides a reasoned judgement"
+        }
+      ],
+      "model": "Recommendation algorithms select content using signals such as viewing time, clicks and interactions. If a system rewards engagement without considering reliability, sensational or misleading posts may be recommended repeatedly and reach large audiences. Ethically, the company should be transparent about the main factors influencing recommendations and accept responsibility for foreseeable effects of its design. It can provide reporting tools, label verified information, reduce the spread of repeatedly debunked claims and give users meaningful controls over recommendations. However, moderation must be careful because removing content too broadly can restrict legitimate discussion. A responsible approach combines clear rules, review and appeal processes, independent evaluation and attention to groups who may be disproportionately affected.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-003",
+      "type": "short",
+      "unit": "Networks",
+      "module": "Social Networks",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Discuss the legal and ethical responsibilities of an online platform when users post copyrighted photographs, music or videos without permission.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Identifies copyright as protection for original creative work"
+          ],
+          "why": "Identifies copyright as protection for original creative work"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Explains that uploading or sharing does not automatically transfer ownership"
+          ],
+          "why": "Explains that uploading or sharing does not automatically transfer ownership"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Discusses permission, licensing or exceptions in general terms"
+          ],
+          "why": "Discusses permission, licensing or exceptions in general terms"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Explains platform response mechanisms such as notice and review"
+          ],
+          "why": "Explains platform response mechanisms such as notice and review"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Considers creator rights and user fairness"
+          ],
+          "why": "Considers creator rights and user fairness"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Distinguishes legal compliance from broader ethical conduct"
+          ],
+          "why": "Distinguishes legal compliance from broader ethical conduct"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Uses a relevant example"
+          ],
+          "why": "Uses a relevant example"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Avoids claiming every use is automatically unlawful"
+          ],
+          "why": "Avoids claiming every use is automatically unlawful"
+        }
+      ],
+      "model": "Copyright generally protects original creative works such as photographs, music and videos. A user does not become the copyright owner simply by finding a work online, and uploading it to a platform does not automatically grant permission to reproduce or distribute it. A platform should provide clear rules, accessible reporting procedures and a fair process for reviewing claims, while users should check ownership, licences and whether a legal exception applies. Ethically, creators should receive recognition and control over how their work is used, but platforms should also avoid removing lawful criticism, commentary or other permitted uses without proper review. The exact legal position depends on the circumstances and Australian copyright law, so a platform should provide clear information rather than making simplistic assumptions.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-004",
+      "type": "short",
+      "unit": "Networks",
+      "module": "Social Networks",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Analyse how phishing and account impersonation can spread through a social network and recommend protections for users and the platform.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Explains phishing as deceptive messages or links"
+          ],
+          "why": "Explains phishing as deceptive messages or links"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Explains how trusted accounts or contacts increase credibility"
+          ],
+          "why": "Explains how trusted accounts or contacts increase credibility"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Describes possible account or information compromise without operational detail"
+          ],
+          "why": "Describes possible account or information compromise without operational detail"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Recommends MFA and unique passwords"
+          ],
+          "why": "Recommends MFA and unique passwords"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Recommends verification of unusual requests and links"
+          ],
+          "why": "Recommends verification of unusual requests and links"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Explains reporting, detection and recovery controls"
+          ],
+          "why": "Explains reporting, detection and recovery controls"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Considers platform responsibility"
+          ],
+          "why": "Considers platform responsibility"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Links controls to reduced risk"
+          ],
+          "why": "Links controls to reduced risk"
+        }
+      ],
+      "model": "Phishing uses deceptive messages or links to persuade people to reveal information or visit an unsafe site. On a social network, a message that appears to come from a friend or familiar organisation may seem trustworthy, so a compromised or impersonated account can help the deception spread. Users should use unique passwords, enable multi-factor authentication, check unusual requests through a separate trusted channel and avoid entering credentials after following unexpected links. The platform should detect suspicious sign-in patterns, provide account recovery and reporting tools, warn users about unusual messages and act on impersonation reports. These measures reduce the likelihood that one compromised account will expose other users.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-005",
+      "type": "short",
+      "unit": "Networks",
+      "module": "Social Networks",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "A school club uses a public social account to post event photographs and student names. Evaluate the privacy and ethical issues and propose a responsible publication policy.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Identifies names and images as personal information in context"
+          ],
+          "why": "Identifies names and images as personal information in context"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Discusses consent and expectations, especially for minors"
+          ],
+          "why": "Discusses consent and expectations, especially for minors"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Considers audience, permanence and resharing"
+          ],
+          "why": "Considers audience, permanence and resharing"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Explains risks of identifying location, school or routines"
+          ],
+          "why": "Explains risks of identifying location, school or routines"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Proposes permission and opt-out process"
+          ],
+          "why": "Proposes permission and opt-out process"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Proposes restricted access, minimal captions and removal process"
+          ],
+          "why": "Proposes restricted access, minimal captions and removal process"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Considers inclusion and accessibility"
+          ],
+          "why": "Considers inclusion and accessibility"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Makes a justified recommendation"
+          ],
+          "why": "Makes a justified recommendation"
+        }
+      ],
+      "model": "Publishing student photographs and names can identify individuals and reveal their school, activities or routines. Even if an event is public, students and families may not expect images to be placed on an unrestricted account where they can be copied or reshared. The club should obtain appropriate permission before publishing identifiable images, explain the intended audience and purpose, and provide a simple way to decline or request removal. It should avoid unnecessary personal details, live location information and captions that reveal routines. An accessible alternative should be available for students who do not wish to appear online. This policy respects autonomy, reduces privacy risks and allows the club to communicate without assuming that participation in an event means consent to public posting.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-006",
+      "type": "short",
+      "unit": "Networks",
+      "module": "Computer Networks",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "A school network contains student devices, administration systems and public Wi-Fi. Explain how network segmentation can improve security and discuss its limitations.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Defines segmentation as dividing a network into separate logical or physical sections"
+          ],
+          "why": "Defines segmentation as dividing a network into separate logical or physical sections"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Applies separation to student, administration and guest devices"
+          ],
+          "why": "Applies separation to student, administration and guest devices"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Explains reduced unnecessary access and containment"
+          ],
+          "why": "Explains reduced unnecessary access and containment"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Mentions VLANs or access-control rules appropriately"
+          ],
+          "why": "Mentions VLANs or access-control rules appropriately"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Explains need for secure configuration and monitoring"
+          ],
+          "why": "Explains need for secure configuration and monitoring"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Identifies limitations such as misconfiguration or shared services"
+          ],
+          "why": "Identifies limitations such as misconfiguration or shared services"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Discusses usability and authorised access"
+          ],
+          "why": "Discusses usability and authorised access"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Provides balanced evaluation"
+          ],
+          "why": "Provides balanced evaluation"
+        }
+      ],
+      "model": "Network segmentation divides a larger network into separate sections so devices and users do not all have unrestricted access to one another. A school could place student devices, administration systems and guest Wi-Fi in different VLANs or network segments. Access-control rules can then permit only the communication needed for each group. This reduces the chance that a compromised guest device can directly reach sensitive administration resources and can limit the spread of some incidents. Segmentation is not a complete security solution: incorrect rules, shared credentials, vulnerable servers or poorly managed devices can still create risks. The school must maintain accurate configurations, monitor traffic and regularly review which users need access. Good segmentation balances protection with the practical need for legitimate communication.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-007",
+      "type": "short",
+      "unit": "Networks",
+      "module": "Computer Networks",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Explain why encrypting data in transit and controlling access to network services are both important for protecting privacy.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Defines encryption as making data unreadable without appropriate keys"
+          ],
+          "why": "Defines encryption as making data unreadable without appropriate keys"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Explains protection while data travels across a network"
+          ],
+          "why": "Explains protection while data travels across a network"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Distinguishes encryption from access control"
+          ],
+          "why": "Distinguishes encryption from access control"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Explains authentication and authorisation"
+          ],
+          "why": "Explains authentication and authorisation"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Applies both to a realistic service"
+          ],
+          "why": "Applies both to a realistic service"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Identifies limits such as compromised endpoints or poor key management"
+          ],
+          "why": "Identifies limits such as compromised endpoints or poor key management"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Considers data confidentiality and user trust"
+          ],
+          "why": "Considers data confidentiality and user trust"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Uses clear technical vocabulary"
+          ],
+          "why": "Uses clear technical vocabulary"
+        }
+      ],
+      "model": "Encryption protects data in transit by converting it into a form that cannot readily be understood by someone who intercepts it without the correct key. This helps protect messages, login details and other information while they move between a device and a service. However, encryption alone does not decide who is allowed to use the service. Authentication checks a user's identity, while authorisation determines what that user may access. A school portal, for example, should encrypt connections and require each student or staff member to sign in with permissions appropriate to their role. Both controls are necessary: encrypted data can still be exposed if an account is misused or a device is compromised. Secure key management, strong authentication and careful permissions therefore work together to protect privacy.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-008",
+      "type": "short",
+      "unit": "Networks",
+      "module": "Computer Networks",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Discuss the responsibilities of an Australian organisation when it stores personal information about customers or students on networked systems.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Identifies personal information and its sensitivity"
+          ],
+          "why": "Identifies personal information and its sensitivity"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Names the Australian Privacy Act 1988 and Australian Privacy Principles where relevant, with qualification that coverage depends on entity and circumstances"
+          ],
+          "why": "Names the Australian Privacy Act 1988 and Australian Privacy Principles where relevant, with qualification that coverage depends on entity and circumstances"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Explains collection purpose and transparency"
+          ],
+          "why": "Explains collection purpose and transparency"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Discusses security safeguards and access limitation"
+          ],
+          "why": "Discusses security safeguards and access limitation"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Explains retention and appropriate disposal"
+          ],
+          "why": "Explains retention and appropriate disposal"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Mentions eligible data breach obligations where applicable"
+          ],
+          "why": "Mentions eligible data breach obligations where applicable"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Considers consequences and trust"
+          ],
+          "why": "Considers consequences and trust"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Avoids overstating that every organisation is covered identically"
+          ],
+          "why": "Avoids overstating that every organisation is covered identically"
+        }
+      ],
+      "model": "An organisation that stores personal information on networked systems should collect it for a clear and lawful purpose, explain how it will be used and restrict access to people who need it. In Australia, the Privacy Act 1988 and Australian Privacy Principles set important privacy obligations for organisations covered by the Act, although coverage and particular requirements depend on the organisation and circumstances. Appropriate safeguards include access controls, secure configuration, staff training, backups and protection of data in transit and at rest. Information should not be kept longer than necessary and should be disposed of securely. If an eligible data breach occurs, the organisation may have notification obligations under the Notifiable Data Breaches scheme. Poor handling can cause harm to individuals and damage organisational trust, as well as create legal consequences.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-009",
+      "type": "short",
+      "unit": "Networks",
+      "module": "Computer Networks",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Evaluate the security and privacy trade-offs of allowing students to use personal devices on a school network (BYOD).",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Identifies benefits such as flexibility and access"
+          ],
+          "why": "Identifies benefits such as flexibility and access"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Identifies risks from varied device security and software"
+          ],
+          "why": "Identifies risks from varied device security and software"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Discusses separation of personal and school data"
+          ],
+          "why": "Discusses separation of personal and school data"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Recommends authentication and network segmentation"
+          ],
+          "why": "Recommends authentication and network segmentation"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Considers updates, endpoint protection and lost devices"
+          ],
+          "why": "Considers updates, endpoint protection and lost devices"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Addresses privacy limits on school monitoring"
+          ],
+          "why": "Addresses privacy limits on school monitoring"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Balances enforceability and usability"
+          ],
+          "why": "Balances enforceability and usability"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Provides a justified policy"
+          ],
+          "why": "Provides a justified policy"
+        }
+      ],
+      "model": "Bring Your Own Device arrangements can make learning more flexible and reduce the need for a school to supply every device. However, personal devices may have different update levels, security settings and installed applications, which makes them harder to manage consistently. A compromised device could expose school accounts or attempt to access other network resources. A responsible policy should use individual authentication, guest or student network segmentation, minimum security requirements and clear procedures for lost devices. The school should also explain what network activity it monitors and avoid collecting personal content that is not necessary for security. BYOD can be appropriate when safeguards and privacy boundaries are transparent, proportionate and practical.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-010",
+      "type": "short",
+      "unit": "Networks",
+      "module": "Computer Networks",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Analyse the privacy implications of monitoring network traffic in a school or workplace. When is monitoring justified, and what safeguards should apply?",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Explains what network monitoring may record"
+          ],
+          "why": "Explains what network monitoring may record"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Identifies legitimate purposes such as security and service reliability"
+          ],
+          "why": "Identifies legitimate purposes such as security and service reliability"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Discusses proportionality and necessity"
+          ],
+          "why": "Discusses proportionality and necessity"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Explains transparency and policy notice"
+          ],
+          "why": "Explains transparency and policy notice"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Recommends minimising collection and limiting access"
+          ],
+          "why": "Recommends minimising collection and limiting access"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Discusses retention and audit controls"
+          ],
+          "why": "Discusses retention and audit controls"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Considers impact on trust and reasonable expectations"
+          ],
+          "why": "Considers impact on trust and reasonable expectations"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Gives balanced conclusion"
+          ],
+          "why": "Gives balanced conclusion"
+        }
+      ],
+      "model": "Network monitoring can record connection times, device identifiers, destinations or security events. It can help an organisation detect malware, investigate unusual activity and maintain reliable services. However, extensive monitoring may reveal a person's interests, routines or communications and can undermine trust if people do not know it is occurring. Monitoring should therefore have a specific purpose, be proportionate to the risk and be explained in a clear policy. The organisation should collect only the information needed, restrict access to authorised staff, protect logs and delete them when no longer required. Monitoring is more defensible when it is transparent and focused on security rather than used for unrelated surveillance.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-011",
+      "type": "short",
+      "unit": "Networks",
+      "module": "Cloud Computing",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "A business moves customer records to a cloud service. Evaluate the security responsibilities shared between the business and the cloud provider.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Explains cloud provider infrastructure role"
+          ],
+          "why": "Explains cloud provider infrastructure role"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Explains customer configuration and account responsibilities"
+          ],
+          "why": "Explains customer configuration and account responsibilities"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Mentions identity, permissions and MFA"
+          ],
+          "why": "Mentions identity, permissions and MFA"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Discusses encryption, backups and recovery"
+          ],
+          "why": "Discusses encryption, backups and recovery"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Explains vendor due diligence and contractual terms"
+          ],
+          "why": "Explains vendor due diligence and contractual terms"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Identifies misconfiguration and shared-responsibility risks"
+          ],
+          "why": "Identifies misconfiguration and shared-responsibility risks"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Considers incident response and monitoring"
+          ],
+          "why": "Considers incident response and monitoring"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Provides balanced judgement"
+          ],
+          "why": "Provides balanced judgement"
+        }
+      ],
+      "model": "Cloud services can provide secure infrastructure, but using a provider does not transfer every security responsibility away from the business. The provider may manage physical data centres, underlying infrastructure and some platform controls, while the customer remains responsible for matters such as user accounts, permissions, data classification and secure configuration. The business should use multi-factor authentication, least-privilege access, encryption where appropriate, reliable backups and tested recovery procedures. It should assess the provider's security practices, service terms, data location and incident notification arrangements. A shared-responsibility model works only when both parties understand their roles and the business regularly checks its own configuration.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-012",
+      "type": "short",
+      "unit": "Networks",
+      "module": "Cloud Computing",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Discuss the privacy questions an Australian organisation should consider before storing personal information with an overseas cloud provider.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Identifies overseas storage or access as relevant"
+          ],
+          "why": "Identifies overseas storage or access as relevant"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Discusses transparency about data handling and location"
+          ],
+          "why": "Discusses transparency about data handling and location"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Mentions Privacy Act/APP 8 cross-border disclosure where applicable"
+          ],
+          "why": "Mentions Privacy Act/APP 8 cross-border disclosure where applicable"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Explains due diligence on provider and subcontractors"
+          ],
+          "why": "Explains due diligence on provider and subcontractors"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Considers access, security and breach response"
+          ],
+          "why": "Considers access, security and breach response"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Discusses retention and deletion"
+          ],
+          "why": "Discusses retention and deletion"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Recognises legal coverage depends on entity and circumstances"
+          ],
+          "why": "Recognises legal coverage depends on entity and circumstances"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Provides a reasoned recommendation"
+          ],
+          "why": "Provides a reasoned recommendation"
+        }
+      ],
+      "model": "Before using an overseas cloud provider, an organisation should understand where information is stored, who can access it and whether subcontractors may handle it. For organisations covered by the Australian Privacy Act, Australian Privacy Principle 8 can be relevant to cross-border disclosure and accountability, subject to its requirements and exceptions. The organisation should assess the provider's security controls, contractual commitments, breach notification process, retention practices and ability to delete or return information. It should also explain relevant handling practices to individuals where required. Choosing a provider solely because it is inexpensive may overlook important privacy and legal risks. A documented assessment helps ensure the service is suitable for the sensitivity of the information.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-013",
+      "type": "short",
+      "unit": "Networks",
+      "module": "Cloud Computing",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Explain how backup, redundancy and disaster recovery differ, and evaluate why a cloud service should be tested rather than simply assumed to be reliable.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Defines backup as recoverable copy of data"
+          ],
+          "why": "Defines backup as recoverable copy of data"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Defines redundancy as duplicated components or capacity"
+          ],
+          "why": "Defines redundancy as duplicated components or capacity"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Defines disaster recovery as restoring services after disruption"
+          ],
+          "why": "Defines disaster recovery as restoring services after disruption"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Explains different failure scenarios"
+          ],
+          "why": "Explains different failure scenarios"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Discusses recovery objectives or prioritisation"
+          ],
+          "why": "Discusses recovery objectives or prioritisation"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Explains testing and restore verification"
+          ],
+          "why": "Explains testing and restore verification"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Considers provider outage and shared dependency"
+          ],
+          "why": "Considers provider outage and shared dependency"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Makes a supported evaluation"
+          ],
+          "why": "Makes a supported evaluation"
+        }
+      ],
+      "model": "A backup is a separate copy of information that can be restored if the original is lost or damaged. Redundancy uses duplicated systems or components so a service can continue when one component fails. Disaster recovery is the broader plan for restoring systems and operations after a major disruption. These controls solve different problems: redundancy may keep a service running during a hardware failure, while a backup may help recover data after accidental deletion or corruption. An organisation should test that backups can actually be restored and that recovery procedures work within acceptable timeframes. It should also consider provider outages, account compromise and whether backups are isolated from the systems they protect. Reliability should be demonstrated through testing, not assumed from a provider's marketing.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-014",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Artificial Intelligence",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Evaluate the ethical risks of using an AI system to rank applicants for a school program or job. Discuss bias, transparency, accountability and human oversight.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Explains automated ranking and training-data influence"
+          ],
+          "why": "Explains automated ranking and training-data influence"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Identifies possible bias and unequal outcomes"
+          ],
+          "why": "Identifies possible bias and unequal outcomes"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Discusses transparency and explainability"
+          ],
+          "why": "Discusses transparency and explainability"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Identifies accountable decision-maker"
+          ],
+          "why": "Identifies accountable decision-maker"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Explains human review and appeal"
+          ],
+          "why": "Explains human review and appeal"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Considers data quality and relevance"
+          ],
+          "why": "Considers data quality and relevance"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Balances efficiency with fairness"
+          ],
+          "why": "Balances efficiency with fairness"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Provides reasoned judgement"
+          ],
+          "why": "Provides reasoned judgement"
+        }
+      ],
+      "model": "An AI ranking system may process applications quickly and consistently, but its results depend on the data, features and objectives used to design it. If historical data reflects unequal opportunities, the system may reproduce or amplify those patterns. A ranking can also be difficult to challenge if applicants are not told how important decisions are made. The organisation using the system remains responsible for the outcome and should test for unfair patterns, use relevant data, explain the system's role and provide a meaningful human review or appeal process. AI may assist decision-makers, but it should not become an unquestioned authority where people's opportunities are affected. Efficiency is valuable only when balanced with fairness, transparency and accountability.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-015",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Artificial Intelligence",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Analyse the privacy risks of entering personal or confidential information into a public generative AI tool.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Identifies personal/confidential information"
+          ],
+          "why": "Identifies personal/confidential information"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Explains possible storage, processing or review by service"
+          ],
+          "why": "Explains possible storage, processing or review by service"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Discusses purpose and consent"
+          ],
+          "why": "Discusses purpose and consent"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Explains data minimisation and de-identification"
+          ],
+          "why": "Explains data minimisation and de-identification"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Mentions organisational policy and approved tools"
+          ],
+          "why": "Mentions organisational policy and approved tools"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Considers inaccurate outputs or unintended disclosure"
+          ],
+          "why": "Considers inaccurate outputs or unintended disclosure"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Recommends safer alternatives"
+          ],
+          "why": "Recommends safer alternatives"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Uses balanced reasoning"
+          ],
+          "why": "Uses balanced reasoning"
+        }
+      ],
+      "model": "Entering personal or confidential information into a public generative AI tool can expose it to processing beyond the user's immediate control. Depending on the service and its settings, prompts may be stored, reviewed or used in ways governed by the provider's terms and privacy policy. A user should not assume that a public tool is an approved secure storage location. They should avoid entering names, contact details, student records, passwords, health information or commercially sensitive material unless the organisation has approved the tool and the handling is authorised. Where possible, use fictional or de-identified examples and share only the minimum information needed. Organisations should provide clear rules and approved alternatives so users can benefit from AI without unnecessarily exposing private data.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-016",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Artificial Intelligence",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Discuss legal and ethical considerations when using AI-generated text or images in a school assignment or published project.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Explains AI output is not automatically verified or original"
+          ],
+          "why": "Explains AI output is not automatically verified or original"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Discusses copyright uncertainty and source material carefully"
+          ],
+          "why": "Discusses copyright uncertainty and source material carefully"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Mentions attribution and disclosure expectations"
+          ],
+          "why": "Mentions attribution and disclosure expectations"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Considers academic integrity and assessment rules"
+          ],
+          "why": "Considers academic integrity and assessment rules"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Explains fact-checking and responsibility"
+          ],
+          "why": "Explains fact-checking and responsibility"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Considers privacy in prompts and generated likenesses"
+          ],
+          "why": "Considers privacy in prompts and generated likenesses"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Distinguishes legal questions from school policy"
+          ],
+          "why": "Distinguishes legal questions from school policy"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Gives practical responsible approach"
+          ],
+          "why": "Gives practical responsible approach"
+        }
+      ],
+      "model": "Using AI-generated material raises questions about authorship, accuracy, copyright and academic integrity. The legal status of particular outputs can depend on the material used, the way the system generated it and the circumstances of publication, so it is unsafe to assume every output is free of rights issues. A student should follow the school's rules, disclose AI assistance where required, verify factual claims and cite reliable sources for information. They should not submit generated work as their own if that breaches assessment requirements. They should also avoid uploading another person's private information or using a person's likeness without appropriate permission. Responsible use treats AI as an aid while keeping the human user accountable for the final work.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-017",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Artificial Intelligence",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Explain why AI-generated misinformation and synthetic media can create security and trust risks for individuals and organisations.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Defines synthetic media or generated content"
+          ],
+          "why": "Defines synthetic media or generated content"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Explains impersonation or false claims risk"
+          ],
+          "why": "Explains impersonation or false claims risk"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Discusses social engineering and reputational harm"
+          ],
+          "why": "Discusses social engineering and reputational harm"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Recommends independent verification"
+          ],
+          "why": "Recommends independent verification"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Explains organisational communication procedures"
+          ],
+          "why": "Explains organisational communication procedures"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Considers detection limitations"
+          ],
+          "why": "Considers detection limitations"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Avoids overclaiming detection tools"
+          ],
+          "why": "Avoids overclaiming detection tools"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Provides balanced response"
+          ],
+          "why": "Provides balanced response"
+        }
+      ],
+      "model": "Generative AI can produce convincing text, images, audio or video that may falsely appear to come from a real person or organisation. This can be used to mislead audiences, damage reputations or support social engineering attempts. A convincing appearance is not proof that content is genuine, and automated detection tools can make mistakes. Individuals should verify unusual requests through a separate trusted channel and check claims against reliable sources. Organisations can establish clear approval procedures for financial or sensitive instructions, educate staff about synthetic media and respond quickly to impersonation. The most reliable approach combines verification, good communication practices and awareness rather than depending on a single detection tool.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-018",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Artificial Intelligence",
+      "difficulty": "Exam",
+      "marks": 10,
+      "stem": "A facial-recognition system is proposed for attendance at school. Evaluate its ethical, privacy and security implications and recommend whether it should be adopted.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Identifies biometric data and sensitivity"
+          ],
+          "why": "Identifies biometric data and sensitivity"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Explains consent and alternatives"
+          ],
+          "why": "Explains consent and alternatives"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Discusses accuracy and unequal error rates"
+          ],
+          "why": "Discusses accuracy and unequal error rates"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Considers surveillance and chilling effects"
+          ],
+          "why": "Considers surveillance and chilling effects"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Explains storage, access and breach consequences"
+          ],
+          "why": "Explains storage, access and breach consequences"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Considers necessity and proportionality"
+          ],
+          "why": "Considers necessity and proportionality"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Proposes less intrusive alternatives and safeguards"
+          ],
+          "why": "Proposes less intrusive alternatives and safeguards"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Addresses legal review and governance"
+          ],
+          "why": "Addresses legal review and governance"
+        },
+        {
+          "label": "Assessment criterion 9",
+          "accept": [
+            "Provides balanced conclusion"
+          ],
+          "why": "Provides balanced conclusion"
+        },
+        {
+          "label": "Assessment criterion 10",
+          "accept": [
+            "Links recommendation to school context"
+          ],
+          "why": "Links recommendation to school context"
+        }
+      ],
+      "model": "Facial recognition uses biometric characteristics to identify or verify people, making it especially sensitive compared with an ordinary attendance list. At school, students may have limited ability to refuse, so consent and power imbalance are important concerns. Accuracy may vary across groups or conditions, creating unfair attendance records or repeated challenges for some students. The system could also normalise surveillance and create a valuable database that would need strong protection. Before adoption, the school would need to demonstrate that the technology is necessary and proportionate, assess applicable privacy obligations, restrict access, define retention and deletion rules, test accuracy across groups and provide a genuine non-biometric alternative. A simpler method such as a student card or teacher roll may achieve the same purpose with less intrusion. Unless a clear need and strong safeguards are demonstrated, the less intrusive option is preferable.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-019",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Cybersecurity",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Compare authentication, authorisation and encryption, explaining how they work together to protect a user's information.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Defines authentication"
+          ],
+          "why": "Defines authentication"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Defines authorisation"
+          ],
+          "why": "Defines authorisation"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Defines encryption"
+          ],
+          "why": "Defines encryption"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Distinguishes their purposes"
+          ],
+          "why": "Distinguishes their purposes"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Applies to a realistic login or data transfer"
+          ],
+          "why": "Applies to a realistic login or data transfer"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Explains how one control cannot replace the others"
+          ],
+          "why": "Explains how one control cannot replace the others"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Mentions MFA or least privilege"
+          ],
+          "why": "Mentions MFA or least privilege"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Clear integrated explanation"
+          ],
+          "why": "Clear integrated explanation"
+        }
+      ],
+      "model": "Authentication verifies who a user is, for example through a password and a second factor. Authorisation determines what an authenticated user is permitted to view or change, such as allowing a student to see their own results but not another student's records. Encryption protects information by making it unreadable without the correct key, particularly while data is stored or transmitted. These controls are complementary rather than interchangeable. A secure school portal needs to verify identities, restrict each account to appropriate records and encrypt connections. Multi-factor authentication and least-privilege permissions strengthen the system, but devices and accounts must also be protected because a compromised authenticated session can still expose data.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-020",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Cybersecurity",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Analyse the risks of weak or reused passwords and explain why multi-factor authentication is an important additional safeguard.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Explains weak passwords are easier to guess or compromise"
+          ],
+          "why": "Explains weak passwords are easier to guess or compromise"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Explains reuse creates linked-account risk"
+          ],
+          "why": "Explains reuse creates linked-account risk"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Describes credential stuffing at a high level"
+          ],
+          "why": "Describes credential stuffing at a high level"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Explains MFA as another proof of identity"
+          ],
+          "why": "Explains MFA as another proof of identity"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Mentions authenticator/security key options appropriately"
+          ],
+          "why": "Mentions authenticator/security key options appropriately"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Discusses recovery and phishing-resistant methods"
+          ],
+          "why": "Discusses recovery and phishing-resistant methods"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Avoids presenting MFA as perfect"
+          ],
+          "why": "Avoids presenting MFA as perfect"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Practical conclusion"
+          ],
+          "why": "Practical conclusion"
+        }
+      ],
+      "model": "Weak passwords are easier for attackers to guess, while reusing one password means that a breach at one service may put other accounts at risk. Attackers may try previously exposed credentials on other services, which is why unique passwords matter. Multi-factor authentication adds another proof of identity, such as an authenticator approval or security key, so a password alone is less likely to be sufficient. A password manager can help users create and store unique passwords. MFA is not perfect because users can still be tricked or accounts can have weak recovery processes, so users should protect approval requests and organisations should prefer stronger phishing-resistant options where practical.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-021",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Cybersecurity",
+      "difficulty": "Exam",
+      "marks": 10,
+      "stem": "A small organisation experiences a ransomware incident. Evaluate the organisational, technical and human measures that reduce the likelihood and impact of future incidents.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Explains ransomware impact at a high level"
+          ],
+          "why": "Explains ransomware impact at a high level"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Discusses patching and secure configuration"
+          ],
+          "why": "Discusses patching and secure configuration"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Explains backups and restore testing"
+          ],
+          "why": "Explains backups and restore testing"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Mentions least privilege and MFA"
+          ],
+          "why": "Mentions least privilege and MFA"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Considers email/user awareness"
+          ],
+          "why": "Considers email/user awareness"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Explains incident response and reporting"
+          ],
+          "why": "Explains incident response and reporting"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Discusses network segmentation and monitoring"
+          ],
+          "why": "Discusses network segmentation and monitoring"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Considers business continuity and communication"
+          ],
+          "why": "Considers business continuity and communication"
+        },
+        {
+          "label": "Assessment criterion 9",
+          "accept": [
+            "Balances prevention, detection and recovery"
+          ],
+          "why": "Balances prevention, detection and recovery"
+        },
+        {
+          "label": "Assessment criterion 10",
+          "accept": [
+            "Provides prioritised conclusion"
+          ],
+          "why": "Provides prioritised conclusion"
+        }
+      ],
+      "model": "Ransomware can disrupt access to important files and services, interrupt operations and create pressure to make rushed decisions. Reducing future risk requires several layers of protection. The organisation should keep systems and applications updated, remove unnecessary services, use multi-factor authentication and restrict accounts to the access they need. Staff training can help people recognise suspicious messages, while monitoring and segmentation can help identify unusual activity and limit its spread. Backups should be kept securely and tested through actual restoration exercises; a backup that cannot be restored is not a dependable recovery plan. The organisation also needs an incident response plan that assigns responsibilities, preserves relevant evidence, communicates with affected people and obtains appropriate expert assistance. No single control is enough: prevention, detection and recovery must work together.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-022",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Cybersecurity",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Explain the responsibilities an Australian organisation may have after an eligible data breach involving personal information.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Explains personal information breach"
+          ],
+          "why": "Explains personal information breach"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Mentions Notifiable Data Breaches scheme"
+          ],
+          "why": "Mentions Notifiable Data Breaches scheme"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Explains serious-harm threshold in general terms"
+          ],
+          "why": "Explains serious-harm threshold in general terms"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Mentions assessment and notification to affected individuals and OAIC where required"
+          ],
+          "why": "Mentions assessment and notification to affected individuals and OAIC where required"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Explains containment and remediation"
+          ],
+          "why": "Explains containment and remediation"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Discusses accurate and timely communication"
+          ],
+          "why": "Discusses accurate and timely communication"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Recognises coverage and legal details depend on circumstances"
+          ],
+          "why": "Recognises coverage and legal details depend on circumstances"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Considers ethical responsibility beyond minimum law"
+          ],
+          "why": "Considers ethical responsibility beyond minimum law"
+        }
+      ],
+      "model": "An organisation covered by the Australian Privacy Act may have obligations under the Notifiable Data Breaches scheme if a breach is likely to result in serious harm to affected individuals and the relevant requirements are met. The organisation should take steps to contain the incident, assess what information was involved, consider who may be affected and reduce further risk. Where notification is required, it must notify affected individuals and the Office of the Australian Information Commissioner in accordance with the scheme. Clear communication should explain what happened, what information may be involved and practical steps people can take. Even where a breach does not meet the notification threshold, an organisation should investigate, improve its safeguards and treat affected people fairly. The precise obligations depend on the organisation and facts of the incident.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-023",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Cybersecurity",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Discuss the ethical difference between authorised security testing and accessing a computer system without permission.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Explains authorisation and defined scope"
+          ],
+          "why": "Explains authorisation and defined scope"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Identifies purpose of legitimate testing"
+          ],
+          "why": "Identifies purpose of legitimate testing"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Discusses consent and minimising disruption"
+          ],
+          "why": "Discusses consent and minimising disruption"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Explains unauthorised access can violate privacy and law"
+          ],
+          "why": "Explains unauthorised access can violate privacy and law"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Considers responsible reporting of vulnerabilities"
+          ],
+          "why": "Considers responsible reporting of vulnerabilities"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Mentions documentation and safeguards"
+          ],
+          "why": "Mentions documentation and safeguards"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Distinguishes good intentions from permission"
+          ],
+          "why": "Distinguishes good intentions from permission"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Clear conclusion"
+          ],
+          "why": "Clear conclusion"
+        }
+      ],
+      "model": "Security testing is ethical when it is authorised, has a clearly defined scope and is conducted to improve protection while minimising disruption. A tester should know which systems may be examined, what methods are permitted and how findings should be reported. Accessing a system without permission is different even if the person claims to be curious or intends to help, because it can expose private information, disrupt services and breach laws. If someone notices a vulnerability, a responsible response is to avoid further access, preserve only necessary details and report it through an authorised channel. Good intentions do not replace consent or legal authority.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-024",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Programming",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Explain how programmers should consider accessibility and inclusion when designing a digital application for a diverse group of users.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Identifies diverse user needs and abilities"
+          ],
+          "why": "Identifies diverse user needs and abilities"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Discusses accessible navigation and input"
+          ],
+          "why": "Discusses accessible navigation and input"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Mentions contrast, captions, text alternatives or keyboard access"
+          ],
+          "why": "Mentions contrast, captions, text alternatives or keyboard access"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Considers language and cultural context"
+          ],
+          "why": "Considers language and cultural context"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Explains testing with diverse users"
+          ],
+          "why": "Explains testing with diverse users"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Links accessibility to fairness and participation"
+          ],
+          "why": "Links accessibility to fairness and participation"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Avoids treating accessibility as optional decoration"
+          ],
+          "why": "Avoids treating accessibility as optional decoration"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Provides examples"
+          ],
+          "why": "Provides examples"
+        }
+      ],
+      "model": "Programmers should design for people with different abilities, languages, ages, devices and levels of digital experience. If an application relies only on colour, small text or mouse interaction, some users may be unable to use it effectively. Features such as readable contrast, captions, text alternatives for images, keyboard navigation and clear language can make the service more accessible. Designers should also consider cultural assumptions and provide ways to correct errors or request support. Testing with a diverse range of users can reveal barriers that developers may not notice themselves. Accessibility is an ethical responsibility because technology should enable participation rather than exclude people unnecessarily.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-025",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Programming",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Analyse why secure software development should include input validation, error handling, updates and testing.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Explains invalid input can cause incorrect or unsafe behaviour"
+          ],
+          "why": "Explains invalid input can cause incorrect or unsafe behaviour"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Explains validation checks data against rules"
+          ],
+          "why": "Explains validation checks data against rules"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Discusses error handling without exposing sensitive details"
+          ],
+          "why": "Discusses error handling without exposing sensitive details"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Explains updates fix defects and vulnerabilities"
+          ],
+          "why": "Explains updates fix defects and vulnerabilities"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Mentions testing different and unexpected inputs"
+          ],
+          "why": "Mentions testing different and unexpected inputs"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Considers secure defaults and least privilege"
+          ],
+          "why": "Considers secure defaults and least privilege"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Links measures to reliability and security"
+          ],
+          "why": "Links measures to reliability and security"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Uses applied example"
+          ],
+          "why": "Uses applied example"
+        }
+      ],
+      "model": "Secure software development considers how a program behaves not only with expected inputs but also with invalid or unexpected data. Input validation checks that data has the correct type, format and range before it is processed. Error handling should fail safely and avoid revealing passwords, internal paths or other sensitive details. Testing helps developers find logic errors and unexpected behaviour, while updates correct known defects and vulnerabilities after release. For example, a form that accepts a date should check that it is a valid date and handle missing or malformed values without crashing. These practices improve reliability and reduce opportunities for misuse, but they must be maintained throughout the software's life.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-026",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Programming",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Discuss how a programmer can minimise the personal information collected by an application while still providing its intended functionality.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Defines data minimisation"
+          ],
+          "why": "Defines data minimisation"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Identifies purpose limitation"
+          ],
+          "why": "Identifies purpose limitation"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Explains optional fields and avoiding unnecessary identifiers"
+          ],
+          "why": "Explains optional fields and avoiding unnecessary identifiers"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Discusses retention and deletion"
+          ],
+          "why": "Discusses retention and deletion"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Mentions access control and secure handling"
+          ],
+          "why": "Mentions access control and secure handling"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Considers transparency and consent"
+          ],
+          "why": "Considers transparency and consent"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Applies to a realistic app"
+          ],
+          "why": "Applies to a realistic app"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Evaluates user benefit and privacy"
+          ],
+          "why": "Evaluates user benefit and privacy"
+        }
+      ],
+      "model": "Data minimisation means collecting only the personal information genuinely needed for a stated purpose. A programmer should first identify what the application must do, then question whether each field is necessary. For example, an event reminder may need an email address but not a user's full birth date or home address. Optional fields should be clearly identified, users should be told why information is collected and data should not be retained indefinitely. Access should be limited and information protected while stored and transmitted. This approach reduces the amount of information that could be exposed in a breach and makes the application easier to explain and trust.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-027",
+      "type": "short",
+      "unit": "Mechatronics",
+      "module": "Robotics",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "A connected classroom robot uses sensors, wireless communication and a cloud dashboard. Evaluate the security risks and safeguards needed to protect the robot and the network.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Identifies connected components and data flows"
+          ],
+          "why": "Identifies connected components and data flows"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Discusses unauthorised control or access risk at a high level"
+          ],
+          "why": "Discusses unauthorised control or access risk at a high level"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Mentions authentication and unique credentials"
+          ],
+          "why": "Mentions authentication and unique credentials"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Explains network separation"
+          ],
+          "why": "Explains network separation"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Considers software/firmware updates"
+          ],
+          "why": "Considers software/firmware updates"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Discusses sensor data and privacy"
+          ],
+          "why": "Discusses sensor data and privacy"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Mentions physical safety and safe operating states"
+          ],
+          "why": "Mentions physical safety and safe operating states"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Provides layered recommendation"
+          ],
+          "why": "Provides layered recommendation"
+        }
+      ],
+      "model": "A connected robot combines physical hardware, sensors, software and network services, so a weakness in one component may affect the wider system. Unauthorised access could expose sensor information, interrupt lessons or cause the robot to behave unpredictably. The school should use unique credentials, restrict dashboard access, keep firmware updated and place classroom devices on a suitably separated network. Sensor data should be limited to what the activity requires and protected from unnecessary access. The robot should also have safe operating limits and a reliable stop function so that a software or communication fault does not create an unsafe movement. Security and physical safety must be considered together.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-028",
+      "type": "short",
+      "unit": "Mechatronics",
+      "module": "Robotics",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Discuss the privacy implications of using an AI vision sensor in a classroom robot, particularly if it can detect or identify people.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Identifies image/video or biometric-like data sensitivity"
+          ],
+          "why": "Identifies image/video or biometric-like data sensitivity"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Distinguishes object detection from identifying individuals"
+          ],
+          "why": "Distinguishes object detection from identifying individuals"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Discusses consent and purpose"
+          ],
+          "why": "Discusses consent and purpose"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Considers storage, transmission and access"
+          ],
+          "why": "Considers storage, transmission and access"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Recommends local processing or non-identifying alternatives where feasible"
+          ],
+          "why": "Recommends local processing or non-identifying alternatives where feasible"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Mentions data minimisation and deletion"
+          ],
+          "why": "Mentions data minimisation and deletion"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Considers students' expectations and school policy"
+          ],
+          "why": "Considers students' expectations and school policy"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Provides reasoned safeguards"
+          ],
+          "why": "Provides reasoned safeguards"
+        }
+      ],
+      "model": "An AI vision sensor may process images to detect objects, movement or people. Detecting that an object is present is different from identifying a particular individual, but both can involve information about people in the camera's field of view. In a classroom, students may not expect their images to be recorded or transmitted to an external service. The school should define the learning purpose, explain the activity, obtain appropriate permission where needed and avoid storing images unless essential. Where possible, the robot should process data locally and use non-identifying object detection rather than facial identification. Access should be restricted and any stored data deleted when it is no longer needed.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-029",
+      "type": "short",
+      "unit": "Mechatronics",
+      "module": "Robotics",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Evaluate the ethical responsibilities of a developer designing an autonomous robot that operates near people.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Identifies foreseeable physical and social risks"
+          ],
+          "why": "Identifies foreseeable physical and social risks"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Explains testing in varied conditions"
+          ],
+          "why": "Explains testing in varied conditions"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Discusses fail-safe behaviour and emergency stop"
+          ],
+          "why": "Discusses fail-safe behaviour and emergency stop"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Considers human oversight and clear boundaries"
+          ],
+          "why": "Considers human oversight and clear boundaries"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Mentions accessibility and bystander awareness"
+          ],
+          "why": "Mentions accessibility and bystander awareness"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Explains responsibility and documentation"
+          ],
+          "why": "Explains responsibility and documentation"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Balances usefulness with safety"
+          ],
+          "why": "Balances usefulness with safety"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Provides justified conclusion"
+          ],
+          "why": "Provides justified conclusion"
+        }
+      ],
+      "model": "A developer of an autonomous robot must consider how the system could affect people who use it and those nearby. Sensors may fail, conditions may change or the robot may interpret an object incorrectly, so it should be tested in realistic and varied environments. The design should include safe speed and movement limits, an emergency stop and a predictable safe state when sensor information is unreliable. People should understand what the robot can and cannot do, and human supervision should be available where the consequences of an error could be serious. Ethical development also considers accessibility and bystanders who have not chosen to interact with the robot. A useful autonomous system is responsible only when its benefits are supported by proportionate safety measures and clear accountability.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-030",
+      "type": "short",
+      "unit": "Mechatronics",
+      "module": "Robotics",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Explain why sensor reliability, software updates and access controls all matter in an automated system, using a robot as an example.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Explains sensor error or changing conditions"
+          ],
+          "why": "Explains sensor error or changing conditions"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Links incorrect readings to control decisions"
+          ],
+          "why": "Links incorrect readings to control decisions"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Explains updates address defects and vulnerabilities"
+          ],
+          "why": "Explains updates address defects and vulnerabilities"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Explains access controls protect configuration"
+          ],
+          "why": "Explains access controls protect configuration"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Mentions testing and calibration"
+          ],
+          "why": "Mentions testing and calibration"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Discusses safe fallback behaviour"
+          ],
+          "why": "Discusses safe fallback behaviour"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Applies to robot movement or task"
+          ],
+          "why": "Applies to robot movement or task"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Integrated conclusion"
+          ],
+          "why": "Integrated conclusion"
+        }
+      ],
+      "model": "A robot makes decisions using sensor readings and programmed control logic. If a sensor is poorly calibrated or affected by lighting, distance or an obstruction, the robot may make an incorrect decision. Testing and calibration help establish whether readings are reliable under the conditions in which the robot will operate. Software updates can correct defects and security weaknesses, while access controls prevent unauthorised people from changing movement settings or code. The robot should also have a safe fallback response when readings are missing or contradictory. These measures work together: reliable sensors support correct decisions, secure software protects the system and controlled access protects its configuration.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-031",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Data and Digital Systems",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Explain how the Australian Privacy Act and Australian Privacy Principles are relevant to organisations handling personal information, and why legal coverage must be checked.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Identifies Privacy Act 1988 (Cth)"
+          ],
+          "why": "Identifies Privacy Act 1988 (Cth)"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Explains APPs govern handling of personal information by covered entities"
+          ],
+          "why": "Explains APPs govern handling of personal information by covered entities"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Mentions collection, use/disclosure, security and access/correction in general terms"
+          ],
+          "why": "Mentions collection, use/disclosure, security and access/correction in general terms"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Recognises small business and other exemptions/coverage complexity"
+          ],
+          "why": "Recognises small business and other exemptions/coverage complexity"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Applies to an organisation scenario"
+          ],
+          "why": "Applies to an organisation scenario"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Distinguishes legal duty from good practice"
+          ],
+          "why": "Distinguishes legal duty from good practice"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Avoids universal claim"
+          ],
+          "why": "Avoids universal claim"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Clear conclusion"
+          ],
+          "why": "Clear conclusion"
+        }
+      ],
+      "model": "The Privacy Act 1988 (Cth) includes the Australian Privacy Principles, which set standards for how organisations covered by the Act handle personal information. The principles address matters such as transparent management, collection, use and disclosure, data quality, security and individual access or correction rights. However, not every organisation is covered in exactly the same way: the Act contains exemptions and special rules, and coverage can depend on the organisation and its activities. A business or school-related service should therefore check its legal position rather than assume that the same requirements apply to every entity. Even where a particular legal obligation does not apply, transparent and secure handling is still a sound ethical practice.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-032",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Data and Digital Systems",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "A mobile application requests access to contacts, microphone, camera and location even though its main purpose is a simple calculator. Evaluate the privacy design and recommend changes.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Identifies permissions unrelated to purpose"
+          ],
+          "why": "Identifies permissions unrelated to purpose"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Explains data minimisation and least privilege"
+          ],
+          "why": "Explains data minimisation and least privilege"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Discusses informed consent and user choice"
+          ],
+          "why": "Discusses informed consent and user choice"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Considers background collection and misuse"
+          ],
+          "why": "Considers background collection and misuse"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Recommends removing unnecessary permissions"
+          ],
+          "why": "Recommends removing unnecessary permissions"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Explains just-in-time permission requests if needed"
+          ],
+          "why": "Explains just-in-time permission requests if needed"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Considers transparency and trust"
+          ],
+          "why": "Considers transparency and trust"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Reasoned conclusion"
+          ],
+          "why": "Reasoned conclusion"
+        }
+      ],
+      "model": "A calculator normally needs access to the numbers entered by the user, not their contacts, microphone, camera or precise location. Requesting unrelated permissions violates the principle of data minimisation and may expose information that is not needed for the service. Users may grant permissions without understanding the consequences, especially if the application does not explain why they are requested. The developer should remove permissions that are not essential, request access only when a feature genuinely needs it and explain the purpose in clear language. The application should also work without optional permissions where possible. This improves privacy, reduces the impact of a potential breach and makes the design more trustworthy.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-033",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Data and Digital Systems",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Discuss the social impacts of the digital divide and evaluate what organisations can do to make online services more inclusive.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Defines digital divide as unequal access/skills/connectivity"
+          ],
+          "why": "Defines digital divide as unequal access/skills/connectivity"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Identifies effects on education, work or services"
+          ],
+          "why": "Identifies effects on education, work or services"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Considers affordability, disability, language and geography"
+          ],
+          "why": "Considers affordability, disability, language and geography"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Discusses device and connectivity access"
+          ],
+          "why": "Discusses device and connectivity access"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Recommends accessible design and alternatives"
+          ],
+          "why": "Recommends accessible design and alternatives"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Considers digital literacy support"
+          ],
+          "why": "Considers digital literacy support"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Avoids blaming individuals"
+          ],
+          "why": "Avoids blaming individuals"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Balanced evaluation"
+          ],
+          "why": "Balanced evaluation"
+        }
+      ],
+      "model": "The digital divide describes unequal access to devices, reliable internet connections and the skills needed to use digital services. People in rural areas, low-income households, people with disability and people who face language barriers may experience different obstacles. If essential services move online without alternatives, these barriers can reduce access to education, employment, health information and government support. Organisations can improve inclusion by designing accessible websites, using clear language, offering digital-literacy assistance and ensuring services work on a range of devices. They should also retain suitable non-digital options where possible. Inclusion requires more than providing a website; it means considering whether different groups can realistically use the service.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-034",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Data and Digital Systems",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Explain how an organisation should balance convenience and security when designing access to sensitive records.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Identifies sensitivity and potential harm"
+          ],
+          "why": "Identifies sensitivity and potential harm"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Explains least privilege and role-based access"
+          ],
+          "why": "Explains least privilege and role-based access"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Discusses authentication strength proportional to risk"
+          ],
+          "why": "Discusses authentication strength proportional to risk"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Mentions MFA for sensitive access"
+          ],
+          "why": "Mentions MFA for sensitive access"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Considers usability and accessibility"
+          ],
+          "why": "Considers usability and accessibility"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Explains logging and review"
+          ],
+          "why": "Explains logging and review"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Discusses secure session/device practices"
+          ],
+          "why": "Discusses secure session/device practices"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Balanced conclusion"
+          ],
+          "why": "Balanced conclusion"
+        }
+      ],
+      "model": "Access to sensitive records should be convenient for authorised users but difficult for unauthorised people. Role-based access and the principle of least privilege mean that staff receive only the permissions needed for their duties. Strong authentication, including multi-factor authentication for higher-risk access, helps verify identity. The organisation should also log important access events and review permissions when roles change. Controls that are too difficult to use may encourage unsafe workarounds, so the design should be tested with users and provide accessible sign-in and recovery processes. The best balance uses stronger controls where the risk is greatest while keeping routine authorised tasks practical.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-035",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Digital Citizenship",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Evaluate the ethical responsibilities of a person who discovers that private information about another student has been shared in a group chat.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Identifies privacy and consent issue"
+          ],
+          "why": "Identifies privacy and consent issue"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Explains harm from further sharing"
+          ],
+          "why": "Explains harm from further sharing"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Recommends not forwarding or reposting"
+          ],
+          "why": "Recommends not forwarding or reposting"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Explains reporting to trusted adult/platform/school process"
+          ],
+          "why": "Explains reporting to trusted adult/platform/school process"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Considers support for affected person"
+          ],
+          "why": "Considers support for affected person"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Discusses preserving relevant evidence appropriately without spreading it"
+          ],
+          "why": "Discusses preserving relevant evidence appropriately without spreading it"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Considers accountability and respectful behaviour"
+          ],
+          "why": "Considers accountability and respectful behaviour"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Clear ethical judgement"
+          ],
+          "why": "Clear ethical judgement"
+        }
+      ],
+      "model": "Sharing another student's private information without permission can violate their privacy and cause embarrassment, distress or further unwanted attention. A person who discovers the post should not forward it, repost it or encourage others to view it, because doing so increases the audience and makes the information harder to contain. They should use the platform's reporting process and follow the school's appropriate support or reporting procedures. If information needs to be documented for a report, it should be handled privately and only shared with a trusted adult or authorised person who can help. The affected student should be treated respectfully and supported rather than blamed. Ethical digital citizenship means reducing harm and taking responsibility for how information is shared.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-036",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Digital Citizenship",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Discuss the legal and ethical issues involved in cyberbullying, including the responsibilities of users, schools and online platforms.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Explains cyberbullying as repeated or harmful online conduct"
+          ],
+          "why": "Explains cyberbullying as repeated or harmful online conduct"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Identifies potential legal consequences without overgeneralising"
+          ],
+          "why": "Identifies potential legal consequences without overgeneralising"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Discusses evidence and reporting"
+          ],
+          "why": "Discusses evidence and reporting"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Explains school duty/policy context carefully"
+          ],
+          "why": "Explains school duty/policy context carefully"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Considers platform moderation and safety tools"
+          ],
+          "why": "Considers platform moderation and safety tools"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Addresses bystander responsibility"
+          ],
+          "why": "Addresses bystander responsibility"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Distinguishes law, policy and ethics"
+          ],
+          "why": "Distinguishes law, policy and ethics"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Provides constructive response"
+          ],
+          "why": "Provides constructive response"
+        }
+      ],
+      "model": "Cyberbullying involves using digital communication to harass, threaten, humiliate or repeatedly target another person. Depending on the conduct, circumstances and jurisdiction, behaviour may engage criminal or civil laws as well as school policies, so it should not be dismissed as harmless online conflict. Users should avoid participating, preserve relevant information appropriately and report serious or repeated behaviour through trusted school and platform channels. Schools should respond consistently, support affected students and follow their policies and legal responsibilities. Platforms should provide accessible reporting and moderation processes. Ethical responsibility also applies to bystanders: sharing or reacting to harmful posts can extend their reach, while reporting and offering support can help reduce harm.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-037",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Intellectual Property",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Explain the difference between copyright, plagiarism and a software licence, and discuss why each matters when using digital content.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Defines copyright as legal rights in creative expression"
+          ],
+          "why": "Defines copyright as legal rights in creative expression"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Defines plagiarism as presenting another's work/ideas without proper acknowledgement"
+          ],
+          "why": "Defines plagiarism as presenting another's work/ideas without proper acknowledgement"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Defines software licence as terms governing use"
+          ],
+          "why": "Defines software licence as terms governing use"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Explains concepts overlap but are not identical"
+          ],
+          "why": "Explains concepts overlap but are not identical"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Applies to code/images/music/text"
+          ],
+          "why": "Applies to code/images/music/text"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Mentions permission, attribution and licence conditions"
+          ],
+          "why": "Mentions permission, attribution and licence conditions"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Avoids assuming attribution alone grants permission"
+          ],
+          "why": "Avoids assuming attribution alone grants permission"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Clear examples"
+          ],
+          "why": "Clear examples"
+        }
+      ],
+      "model": "Copyright is a legal framework that gives creators rights over the use of original creative works, such as text, images, music and software. Plagiarism is presenting another person's work or ideas as one's own without appropriate acknowledgement; it can breach academic rules even where copyright is not the central issue. A software licence sets conditions for how software may be installed, copied, modified or distributed. These concepts are related but not interchangeable. Crediting an image's creator does not automatically grant permission to use it, and software that is free to download may still have licence conditions. Users should check the relevant licence, obtain permission where needed and acknowledge sources honestly.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-038",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Intellectual Property",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "A developer reuses code found online in a commercial application. Evaluate the ethical and legal checks they should make before including it.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Identifies source and ownership uncertainty"
+          ],
+          "why": "Identifies source and ownership uncertainty"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Explains licence terms must be checked"
+          ],
+          "why": "Explains licence terms must be checked"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Discusses attribution requirements"
+          ],
+          "why": "Discusses attribution requirements"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Considers modification and redistribution conditions"
+          ],
+          "why": "Considers modification and redistribution conditions"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Mentions compatibility of multiple licences"
+          ],
+          "why": "Mentions compatibility of multiple licences"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Explains security/quality review"
+          ],
+          "why": "Explains security/quality review"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Distinguishes public availability from public domain"
+          ],
+          "why": "Distinguishes public availability from public domain"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Reasoned conclusion"
+          ],
+          "why": "Reasoned conclusion"
+        }
+      ],
+      "model": "Code being publicly visible online does not mean it is free of copyright or unrestricted for reuse. Before including it in a commercial application, the developer should identify the source and check the applicable licence, including requirements for attribution, distribution of source code or sharing modifications. They should also consider whether the licence is compatible with the rest of the project. Ethical practice includes acknowledging the original author and avoiding claims that borrowed work was independently created. The code should be reviewed for quality, security and suitability rather than copied without understanding it. If ownership or licence terms are unclear, the developer should seek permission or use code with clear reuse rights.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-039",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Digital Systems",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Evaluate the privacy and security risks of collecting location data from users for a navigation or fitness application.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Explains location data can reveal routines and sensitive places"
+          ],
+          "why": "Explains location data can reveal routines and sensitive places"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Discusses continuous vs necessary collection"
+          ],
+          "why": "Discusses continuous vs necessary collection"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Explains consent and purpose transparency"
+          ],
+          "why": "Explains consent and purpose transparency"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Recommends minimisation and user controls"
+          ],
+          "why": "Recommends minimisation and user controls"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Discusses secure storage and restricted access"
+          ],
+          "why": "Discusses secure storage and restricted access"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Considers retention and deletion"
+          ],
+          "why": "Considers retention and deletion"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Mentions risks of sharing or re-identification"
+          ],
+          "why": "Mentions risks of sharing or re-identification"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Balanced recommendation"
+          ],
+          "why": "Balanced recommendation"
+        }
+      ],
+      "model": "Location data can reveal where a person lives, studies, works and spends time, as well as patterns in their daily routine. A navigation app may need location while providing directions, but continuous collection outside that purpose may be unnecessary and intrusive. The developer should explain when location is collected, request only the level of precision required and provide clear controls to pause or disable tracking. Location records should be protected, access should be restricted and retention should be limited. Sharing or combining location data with other information can make individuals identifiable even if obvious names are removed. A privacy-conscious design collects location only when needed and gives users meaningful control.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-040",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Digital Systems",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Discuss why organisations need an incident response plan and explain the roles of preparation, detection, containment, recovery and review.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Explains incident response purpose"
+          ],
+          "why": "Explains incident response purpose"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Describes preparation and assigned roles"
+          ],
+          "why": "Describes preparation and assigned roles"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Explains detection and assessment"
+          ],
+          "why": "Explains detection and assessment"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Explains containment in general terms"
+          ],
+          "why": "Explains containment in general terms"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Discusses recovery and service restoration"
+          ],
+          "why": "Discusses recovery and service restoration"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Mentions communication and documentation"
+          ],
+          "why": "Mentions communication and documentation"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Explains post-incident review"
+          ],
+          "why": "Explains post-incident review"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Links plan to reduced impact"
+          ],
+          "why": "Links plan to reduced impact"
+        }
+      ],
+      "model": "An incident response plan gives an organisation an organised way to manage a security event rather than making decisions under pressure. Preparation includes assigning responsibilities, maintaining contact details and practising procedures. Detection and assessment establish what may have happened and which systems or information are affected. Containment aims to limit further impact, while recovery restores services and checks that systems are safe to use. The organisation should communicate appropriately with affected people and keep accurate records. After the incident, a review identifies weaknesses and updates training or controls. A tested plan can reduce confusion, shorten disruption and improve the organisation's ability to protect information.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-041",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Digital Systems",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "A company uses customer data to personalise prices and offers. Evaluate the ethical concerns and safeguards needed to ensure the practice is fair and transparent.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Explains profiling/personalisation"
+          ],
+          "why": "Explains profiling/personalisation"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Identifies fairness and discrimination risks"
+          ],
+          "why": "Identifies fairness and discrimination risks"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Discusses transparency and user expectations"
+          ],
+          "why": "Discusses transparency and user expectations"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Considers consent and purpose limitation"
+          ],
+          "why": "Considers consent and purpose limitation"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Mentions data accuracy and ability to challenge"
+          ],
+          "why": "Mentions data accuracy and ability to challenge"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Considers vulnerable users and unequal effects"
+          ],
+          "why": "Considers vulnerable users and unequal effects"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Proposes audits and clear controls"
+          ],
+          "why": "Proposes audits and clear controls"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Reasoned evaluation"
+          ],
+          "why": "Reasoned evaluation"
+        }
+      ],
+      "model": "Personalised offers can make services more relevant, but using customer data to set different prices or offers may create unfair outcomes. A system could disadvantage people based on inferred income, location or other characteristics, even when those inferences are inaccurate. Customers may also be unaware that their data is being used to influence the price they see. The company should explain the practice, use data for a clearly defined purpose, check that the data is accurate and assess outcomes for unfair patterns. Customers should have a way to question errors and access meaningful privacy choices. Personalisation is more defensible when it is transparent, proportionate and does not exploit vulnerable users.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-042",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Computing Systems",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Explain why an organisation should not assume that storing data with a third-party provider removes its own legal and ethical responsibilities.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Identifies outsourcing/third-party processing"
+          ],
+          "why": "Identifies outsourcing/third-party processing"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Explains organisation remains accountable for its own obligations"
+          ],
+          "why": "Explains organisation remains accountable for its own obligations"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Discusses due diligence and contracts"
+          ],
+          "why": "Discusses due diligence and contracts"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Mentions access, security and subcontractors"
+          ],
+          "why": "Mentions access, security and subcontractors"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Considers breach notification and incident cooperation"
+          ],
+          "why": "Considers breach notification and incident cooperation"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Discusses retention/deletion and data return"
+          ],
+          "why": "Discusses retention/deletion and data return"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Applies to Australian privacy context carefully"
+          ],
+          "why": "Applies to Australian privacy context carefully"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Clear conclusion"
+          ],
+          "why": "Clear conclusion"
+        }
+      ],
+      "model": "Using a third-party provider can help an organisation access specialist services, but outsourcing does not automatically remove the organisation's own responsibilities for information it controls. It should assess the provider's security, privacy practices, data locations, subcontractors and incident response arrangements before sharing information. Contracts should clarify permitted uses, access, security expectations, breach notification, retention and secure deletion or return of data. Where Australian privacy law applies, the organisation must consider its obligations when disclosing or handling personal information through another party. Ethical responsibility also requires the organisation to explain relevant practices and take reasonable steps to protect the people whose information it holds.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    },
+    {
+      "id": "ct-ethics-law-sec-priv-043",
+      "type": "short",
+      "unit": "Programming",
+      "module": "Computing Systems",
+      "difficulty": "Exam",
+      "marks": 8,
+      "stem": "Discuss how computing professionals should balance innovation, user convenience, privacy and security when introducing a new technology.",
+      "criteria": [
+        {
+          "label": "Assessment criterion 1",
+          "accept": [
+            "Identifies competing goals"
+          ],
+          "why": "Identifies competing goals"
+        },
+        {
+          "label": "Assessment criterion 2",
+          "accept": [
+            "Explains privacy/security by design"
+          ],
+          "why": "Explains privacy/security by design"
+        },
+        {
+          "label": "Assessment criterion 3",
+          "accept": [
+            "Discusses user consultation and accessibility"
+          ],
+          "why": "Discusses user consultation and accessibility"
+        },
+        {
+          "label": "Assessment criterion 4",
+          "accept": [
+            "Considers risk assessment before deployment"
+          ],
+          "why": "Considers risk assessment before deployment"
+        },
+        {
+          "label": "Assessment criterion 5",
+          "accept": [
+            "Explains transparency and consent"
+          ],
+          "why": "Explains transparency and consent"
+        },
+        {
+          "label": "Assessment criterion 6",
+          "accept": [
+            "Mentions testing, monitoring and review"
+          ],
+          "why": "Mentions testing, monitoring and review"
+        },
+        {
+          "label": "Assessment criterion 7",
+          "accept": [
+            "Considers accountability for unintended impacts"
+          ],
+          "why": "Considers accountability for unintended impacts"
+        },
+        {
+          "label": "Assessment criterion 8",
+          "accept": [
+            "Provides balanced conclusion"
+          ],
+          "why": "Provides balanced conclusion"
+        }
+      ],
+      "model": "New technology can improve convenience and create useful services, but rapid deployment may introduce privacy, security or accessibility problems. Computing professionals should assess risks before launch and build privacy and security into the design rather than treating them as later additions. They should collect only necessary information, use appropriate safeguards, test the system with different users and explain important limitations. User consultation can reveal impacts that developers have overlooked, while ongoing monitoring helps identify problems after release. Innovation should not be rejected automatically, but its benefits should be weighed against foreseeable harms. Professionals remain accountable for making careful design decisions and responding when the technology causes unintended effects.",
+      "explanation": "Self-marked extended response. Compare your paragraph with the model response and award marks only for distinct, relevant points that are explained and applied. Legal examples use Australian context; check current requirements and the facts of the scenario."
+    }
+  ]
+}
