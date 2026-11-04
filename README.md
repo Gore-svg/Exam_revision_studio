@@ -10,7 +10,7 @@ Each studio has its own revision activities. Where a studio saves progress, retu
 
 ## Build your own studio
 
-1. Open [Studio Builder Mega Prompt](Interactive_Revision_Studio_Mega_Prompt_Engineering.txt) and copy it with one studio (as an example - optional) into a new chat.
+1. Open [Studio Builder Mega Prompt](Interactive_Revision_Studio_Mega_Prompt_Engineering.txt) and copy it with one of the studio files (as an example - optional) into a new chat.
 3. Provide your assessment notification, exam scope, revision notes, and any sample questions or marking criteria you have.
 4. Review the proposed scope and plan. Reply `[PROCEED]` when you’re happy with it.
 5. Download the finished HTML studio and open it in a browser to test it with your own material.
