@@ -1,0 +1,15 @@
+:root { color-scheme: light; font: 100%/1.55 system-ui, sans-serif; color: #152940; background: #edf2f8; }
+body { margin: 0; }
+main { max-width: 68rem; margin: auto; padding: clamp(1rem, 5vw, 4rem); }
+header { border-bottom: 1px solid #bdcddd; padding-bottom: 1.5rem; margin-bottom: 2rem; }
+h1 { font-size: clamp(2rem, 6vw, 4.25rem); line-height: 1.06; letter-spacing: -.045em; margin: .35em 0; }
+.eyebrow, .subject { color: #385575; font-size: .85rem; font-weight: 700; }
+.eyebrow { text-transform: uppercase; letter-spacing: .16em; }
+#subjects { display: flex; flex-wrap: wrap; gap: .55rem; }
+button { font: inherit; cursor: pointer; padding: .5rem .85rem; border: 1px solid #8ca5bf; border-radius: .4rem; color: inherit; background: white; }
+button[aria-pressed="true"] { color: white; background: #193e68; border-color: #193e68; }
+#studios { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr)); gap: 1rem; list-style: none; padding: 0; }
+#studios a { display: grid; gap: .45rem; box-sizing: border-box; height: 100%; padding: 1.25rem; border: 1px solid #bdcddd; border-radius: .6rem; background: white; color: inherit; text-decoration: none; }
+#studios a:hover { border-color: #193e68; background: #f9fbff; }
+a:focus-visible, button:focus-visible { outline: 3px solid #1c65b4; outline-offset: 3px; }
+.open { color: #174f8e; text-decoration: underline; }

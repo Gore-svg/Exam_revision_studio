@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Exam Revision Studios</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="catalog.js" defer></script>
+  <script src="hub.js" defer></script>
+</head>
+<body>
+  <main>
+    <header>
+      <p class="eyebrow">Study library</p>
+      <h1>Exam Revision Studios</h1>
+      <p>Choose a subject, then open the studio for the paper you want to study.</p>
+    </header>
+    <section aria-labelledby="papers">
+      <h2 id="papers">Available studios</h2>
+      <div id="subjects" role="group" aria-label="Filter by subject"></div>
+      <p id="status" role="status">Loading studios…</p>
+      <ul id="studios"></ul>
+    </section>
+    <section aria-labelledby="build-your-own">
+      <h2 id="build-your-own">Build your own studio</h2>
+      <p>Copy the prompt into a new chat and upload your assessment notification, topic list, revision notes, and any sample questions or marking guides. Review the proposed plan, then reply <code>[PROCEED]</code> when you’re ready for the HTML studio.</p>
+      <p><a href="Interactive_Revision_Studio_Mega_Prompt_Engineering.txt">Open the Studio Builder Mega Prompt</a></p>
+    </section>
+  </main>
+</body>
+</html>
