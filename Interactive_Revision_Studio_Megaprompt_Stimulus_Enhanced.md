@@ -21,6 +21,8 @@ After intake and source audit, output a brief **Technical Spec & Plan** before w
 - Pass explicit, typed data across boundaries. Use strict TypeScript where a build pipeline is justified, or precise JSDoc and runtime checks for browser JavaScript. Decode untrusted inputs to documented, allowlisted transfer objects before using them. Validate shape, enums, references, lengths, safe numeric ranges and domain invariants. Keep one authoritative source of persisted state and derive display counts from it. Avoid leaking internal records or letting a UI write arbitrary fields into stored state.
 - For updates, preserve existing entry points, storage namespaces and stable IDs wherever possible. Use schema versions and tested migrations for old data. Make migrations repeatable and preserve recoverable originals. Provide focused diffs or complete replacement files as appropriate. State exactly what commands, dependencies, environment variables or database migrations are needed, if any. Never invent a requirement to install something.
 
+- Remember to add a reset ALL data button where all current data is reset and is turned into a default new copy (option to keep imports and erase only results and marks) remember to have a confirmation message to confirm the deletion of data
+
 ### Reliable state and failure recovery
 
 - Make state transitions explicit for practice attempts, exam lifecycle, correction reopening and imports. For imports use selection → validation and preview → confirmed commit. Reject invalid transitions and prevent repeated clicks from duplicating writes. Keep pending work separate from committed records, and publish new state only after persistence succeeds. If the save fails, retain the prior state and the material needed to retry.
