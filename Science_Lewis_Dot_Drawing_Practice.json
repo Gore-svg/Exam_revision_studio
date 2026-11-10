@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 2,
+  "kind": "bank",
+  "name": "Lewis Dot Drawing · Covalent and Ionic Practice",
+  "questions": [
+    {
+      "id": "LEWIS-IMPORT-H2O",
+      "type": "lewisDotDrawing",
+      "q": "Draw the covalent Lewis dot structure for H₂O. Set the lone-pair count for each atom and shared electron pairs for each bond.",
+      "a": "Model structure for H₂O: correct lone pairs and shared bonding pairs as shown by the marking criteria.",
+      "m": 5,
+      "topic": "Chemical bonding",
+      "difficulty": 2,
+      "lewisSpec": {
+        "mode": "covalent",
+        "compound": "H₂O",
+        "instruction": "Choose the correct lone-pair count for each atom and shared electron-pair count for each bond. The preview updates live.",
+        "atoms": [
+          {
+            "id": "h-left",
+            "symbol": "H",
+            "x": 150,
+            "y": 140,
+            "valenceElectrons": 1,
+            "expectedLonePairs": 0
+          },
+          {
+            "id": "oxygen",
+            "symbol": "O",
+            "x": 320,
+            "y": 140,
+            "valenceElectrons": 6,
+            "expectedLonePairs": 2
+          },
+          {
+            "id": "h-right",
+            "symbol": "H",
+            "x": 490,
+            "y": 140,
+            "valenceElectrons": 1,
+            "expectedLonePairs": 0
+          }
+        ],
+        "bonds": [
+          {
+            "id": "bond-left",
+            "a": "h-left",
+            "b": "oxygen",
+            "expectedPairs": 1
+          },
+          {
+            "id": "bond-right",
+            "a": "oxygen",
+            "b": "h-right",
+            "expectedPairs": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "LEWIS-IMPORT-CO2",
+      "type": "lewisDotDrawing",
+      "q": "Draw the covalent Lewis dot structure for CO₂. Set the lone-pair count for each atom and shared electron pairs for each bond.",
+      "a": "Model structure for CO₂: correct lone pairs and shared bonding pairs as shown by the marking criteria.",
+      "m": 5,
+      "topic": "Chemical bonding",
+      "difficulty": 3,
+      "lewisSpec": {
+        "mode": "covalent",
+        "compound": "CO₂",
+        "instruction": "Choose the correct lone-pair count for each atom and shared electron-pair count for each bond. The preview updates live.",
+        "atoms": [
+          {
+            "id": "oxygen-left",
+            "symbol": "O",
+            "x": 180,
+            "y": 140,
+            "valenceElectrons": 6,
+            "expectedLonePairs": 2
+          },
+          {
+            "id": "carbon",
+            "symbol": "C",
+            "x": 320,
+            "y": 140,
+            "valenceElectrons": 4,
+            "expectedLonePairs": 0
+          },
+          {
+            "id": "oxygen-right",
+            "symbol": "O",
+            "x": 460,
+            "y": 140,
+            "valenceElectrons": 6,
+            "expectedLonePairs": 2
+          }
+        ],
+        "bonds": [
+          {
+            "id": "double-left",
+            "a": "oxygen-left",
+            "b": "carbon",
+            "expectedPairs": 2
+          },
+          {
+            "id": "double-right",
+            "a": "carbon",
+            "b": "oxygen-right",
+            "expectedPairs": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": "LEWIS-IMPORT-NACL",
+      "type": "lewisDotDrawing",
+      "q": "Draw the ionic Lewis dot diagram for NaCl. Show the final outer-shell electron counts, ion charges and electrons transferred.",
+      "a": "Model ionic structure for NaCl: show the ions in brackets with correct charges, full outer shells where appropriate and the correct electron transfer.",
+      "m": 5,
+      "topic": "Chemical bonding",
+      "difficulty": 2,
+      "lewisSpec": {
+        "mode": "ionic",
+        "compound": "NaCl",
+        "instruction": "Set the final outer-shell electron count and charge for each ion, then show electrons transferred along each route.",
+        "ions": [
+          {
+            "id": "sodium",
+            "symbol": "Na",
+            "x": 210,
+            "y": 140,
+            "expectedDots": 0,
+            "expectedCharge": "+1"
+          },
+          {
+            "id": "chloride",
+            "symbol": "Cl",
+            "x": 430,
+            "y": 140,
+            "expectedDots": 8,
+            "expectedCharge": "-1"
+          }
+        ],
+        "transfers": [
+          {
+            "id": "na-to-cl",
+            "from": "sodium",
+            "to": "chloride",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "LEWIS-IMPORT-MGCL2",
+      "type": "lewisDotDrawing",
+      "q": "Draw the ionic Lewis dot diagram for MgCl₂. Show the final outer-shell electron counts, ion charges and electrons transferred.",
+      "a": "Model ionic structure for MgCl₂: show the ions in brackets with correct charges, full outer shells where appropriate and the correct electron transfer.",
+      "m": 8,
+      "topic": "Chemical bonding",
+      "difficulty": 3,
+      "lewisSpec": {
+        "mode": "ionic",
+        "compound": "MgCl₂",
+        "instruction": "Set the final outer-shell electron count and charge for each ion, then show electrons transferred along each route.",
+        "ions": [
+          {
+            "id": "magnesium",
+            "symbol": "Mg",
+            "x": 320,
+            "y": 140,
+            "expectedDots": 0,
+            "expectedCharge": "+2"
+          },
+          {
+            "id": "chloride-left",
+            "symbol": "Cl",
+            "x": 150,
+            "y": 140,
+            "expectedDots": 8,
+            "expectedCharge": "-1"
+          },
+          {
+            "id": "chloride-right",
+            "symbol": "Cl",
+            "x": 490,
+            "y": 140,
+            "expectedDots": 8,
+            "expectedCharge": "-1"
+          }
+        ],
+        "transfers": [
+          {
+            "id": "mg-to-cl-left",
+            "from": "magnesium",
+            "to": "chloride-left",
+            "count": 1
+          },
+          {
+            "id": "mg-to-cl-right",
+            "from": "magnesium",
+            "to": "chloride-right",
+            "count": 1
+          }
+        ]
+      }
+    }
+  ]
+}
